@@ -15,8 +15,5 @@
   ],
   "env": {
     "bot": "@telegram_bot_token"
-  },
-  "engines": {
-    "node": ">=12.0.0"
   }
 }
